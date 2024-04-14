@@ -16,7 +16,7 @@ SCHEMA:
 {
   "$jsonSchema": {
     "bsonType": "object",
-    "required": ["nota"],
+    "required": ["nota", "corridas"],
     "properties": {
       "nota": {
         "bsonType": ["double"],
